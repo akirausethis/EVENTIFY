@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "765714450974",
+    "project_id": "eventify-flutter",
+    "storage_bucket": "eventify-flutter.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:765714450974:android:e748b8ff057ea7477dbc0f",
+        "android_client_info": {
+          "package_name": "com.example.eventify"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbp1UIdOHpLNnykWaIBb0T6AGSqEXAVG4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
